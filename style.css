@@ -1,0 +1,39 @@
+input {
+    display: inline-block;
+    width: 100px;
+}
+
+label {
+    display: inline-block;
+}
+
+.form {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+button {
+    display: inline-block;
+}
+
+.city-container {
+    display: flex;
+    justify-content: center;
+}
+
+.city-name {
+    font-size: 40px;
+    margin: auto;
+}
+
+.weather-info {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.not-visible {
+    display: none;
+}
